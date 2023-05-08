@@ -1,0 +1,26 @@
+[
+    {
+        "question": "JS hangi HTML öğesinin içinde yer alır?",
+        "choice1": "<script>",
+        "choice2": "<JavaScript>",
+        "choice3": "<js>",
+        "choice4": "<scripting>",
+        "answer": 1
+    },
+    {
+        "question": "'xxx.js' adlı harici bir komut dosyasına başvurmak için söz dizimi nedir?",
+        "choice1": "<script href='xxx.js'>",
+        "choice2": "<script name='xxx.js'>",
+        "choice3": "<script src='xxx.js'>",
+        "choice4": "<script file='xxx.js'>",
+        "answer": 3
+    },
+    {
+        "question": "Bir uyarı butonuna 'MERHABA DÜNYA' YI nasıl yazarsınız?",
+        "choice1": "msgBox('MERHABA DÜNYA')",
+        "choice2": "alertBox('MERHABA DÜNYA')",
+        "choice3": "msg('MERHABA DÜNYA')",
+        "choice4": "alert('MERHABA DÜNYA')",
+        "answer": 4
+    }
+]
